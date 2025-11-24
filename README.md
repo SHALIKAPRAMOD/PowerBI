@@ -68,3 +68,5 @@ Average Bill Value (ABV) = DIVIDE([Net Sale], [Number of Orders], 0)
 - DAX
 - Power Query
 - Star Schema Dimensional Modelling
+
+![Dashboard Preview] (https://github.com/SHALIKAPRAMOD/PowerBI/blob/main/Sales%20Dashboard.png)
